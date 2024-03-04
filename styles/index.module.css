@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    background-color: #830b5f;
+    color: #fff;
+  }
+  
+  .navbar a {
+    margin-left: 10px;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .centeredContent {
+    text-align: center;
+  }
+  
